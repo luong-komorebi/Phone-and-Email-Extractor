@@ -16,7 +16,7 @@ Run ```python phoneAndEmail.py``` and you will get the results
 ### Example
 
 Text copied: 
-> Contact Us
+``` Contact Us
 No Starch Press, Inc.
 245 8th Street
 San Francisco, CA 94103 USA
@@ -31,6 +31,7 @@ Help with your order: info@nostarch.com
 Reach Us on Social Media
 Twitter
 Facebook
+```
 
 Text returned: 
 ![](http://i.imgur.com/Oq8hCBK.png)
